@@ -203,8 +203,7 @@ Se utilizó la herramienta **AWS Cost Explorer** desde la cuenta principal `AWS-
 ## 🙋 Autor
 
 **Larry Andrés Rondan Manrique**  
-📧 Email: larrycloudaws@gmail.com  
-🔗 GitHub: [@larrycloudaws](https://github.com/larrycloudaws)  
-🌐 Portafolio Web: [larrycloud.dev](https://larrycloud.dev)
+📬 Email: larrycloudaws@gmail.com  
+🐙 GitHub: [@larrycloud](https://github.com/larrycloud)
 
 🛡️ *Nota: Las IDs de cuenta en el diagrama han sido modificadas por motivos de seguridad.*
