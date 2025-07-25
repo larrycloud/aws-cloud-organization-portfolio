@@ -96,10 +96,10 @@ Se muestra el proceso completo y real de integración de una cuenta AWS existent
    ![Enviar invitación](docs/screenshots/aws-security-account-onboarding/01-Enviar-invitacion-IAM-larry-(security).png)
 
 2. **Revisar invitación**  
-   ![Revisar invitación](docs/screenshots/aws-security-account-onboarding/02-revisar-invitacion-iam-larry-security.png)
+   ![Revisar invitación](docs/screenshots/aws-security-account-onboarding/02-Revisar-invitacion-IAM-Larry-security.png)
 
 3. **Aceptar invitación desde SECURITY**  
-   ![Aceptar invitación](docs/screenshots/aws-security-account-onboarding/03-aceptar-invitacion-iam-larry-security.png)
+   ![Aceptar invitación](docs/screenshots/aws-security-account-onboarding/03-Aceptar-invitacion-IAM-Larry-security.png)
 
 4. **Invitación aceptada**  
    ![Invitación aceptada](docs/screenshots/aws-security-account-onboarding/04-Invitacion-aceptada-IAM-Larry-security.png)
