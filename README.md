@@ -102,8 +102,7 @@ Se muestra el proceso completo y real de integración de una cuenta AWS existent
    ![Aceptar invitación](docs/screenshots/aws-security-account-onboarding/03-aceptar-invitacion-iam-larry-security.png)
 
 4. **Invitación aceptada**  
-   ![Invitación aceptada](docs/screenshots/aws-security-account-onboarding/04-invitacion-aceptada-iam-larry-security.png)
-
+   ![Invitación aceptada](docs/screenshots/aws-security-account-onboarding/04-Invitacion-aceptada-IAM-Larry-security.png)
 
 5. **Crear rol de confianza para la cuenta general desde security**  
    ![Rol](docs/screenshots/aws-security-account-onboarding/05-Generar-rol-desde-security-para-general.png)
